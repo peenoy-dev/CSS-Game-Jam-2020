@@ -1,0 +1,14 @@
+{
+    "stages": [
+        {
+            "tempo": 60,
+            "duration": 120,
+            "segments": [
+                {
+                    "blocks": [ 1, 1, 1, 1, 2, 1, 1, 1, 2, 1 ],
+                    "tempos": 60
+                }
+            ]
+        }
+    ]
+}
